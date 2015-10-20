@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ACHREF-PC</Machine>
+    <WindowsUser>Achref</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>ca5906f7-f42d-48d2-a3b0-41932eab3c2b</PackageIdentityName>
+    <IntermediateOutputPath>F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\My Fashion Assistant.WindowsPhone.exe">
+      <PackagePath>My Fashion Assistant.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\SQLite.WP81\3.8.8.1\Redist\Retail\ARM\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\allClothes.jpg">
+      <PackagePath>Assets\allClothes.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\fashionBackground.jpg">
+      <PackagePath>Assets\fashionBackground.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\fashionBackground2.jpg">
+      <PackagePath>Assets\fashionBackground2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\noImg.jpg">
+      <PackagePath>Assets\noImg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\Assistant.png">
+      <PackagePath>Assets\Assistant.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\clothes.png">
+      <PackagePath>Assets\clothes.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\No_Image.png">
+      <PackagePath>Assets\No_Image.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\picture_not_available.png">
+      <PackagePath>Assets\picture_not_available.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\accessories.xbf">
+      <PackagePath>accessories.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\AllClothes.xbf">
+      <PackagePath>AllClothes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\AssistantResult.xbf">
+      <PackagePath>AssistantResult.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\BlankPage1test.xbf">
+      <PackagePath>BlankPage1test.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\Clothes.xbf">
+      <PackagePath>Clothes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\Coat.xbf">
+      <PackagePath>Coat.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\Dresses.xbf">
+      <PackagePath>Dresses.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\LowerBody.xbf">
+      <PackagePath>LowerBody.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\Shoess.xbf">
+      <PackagePath>Shoess.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\UpperBody.xbf">
+      <PackagePath>UpperBody.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\My Fashion Assistant.WindowsPhone.xr.xml">
+      <PackagePath>My Fashion Assistant.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="F:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>F:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="F:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>F:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

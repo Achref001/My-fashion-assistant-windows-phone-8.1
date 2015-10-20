@@ -1,0 +1,66 @@
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\Clothes.xaml.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\App.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\Clothes.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\MainPage.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\My Fashion Assistant.WindowsPhone.xr.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\My Fashion Assistant.WindowsPhone.exe
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\My Fashion Assistant.WindowsPhone.pdb
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\resources.pri
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\AppxManifest.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\My Fashion Assistant.WindowsPhone.build.appxrecipe
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\App.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\App.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\Clothes.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\Clothes.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\MainPage.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\MainPage.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\App.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\MainPage.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\App.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\MainPage.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\Clothes.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\Clothes.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\My Fashion Assistant.WindowsPhone.exe
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\My Fashion Assistant.WindowsPhone.pdb
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\My Fashion Assistant.WindowsPhone.csproj.GenerateResource.Cache
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\priconfig.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\priconfig.xml.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\layout.resfiles
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\layout.resfiles.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\resources.resfiles
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\resources.resfiles.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\pri.resfiles
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\pri.resfiles.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\qualifiers.txt
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\ProjectArchitectures.txt
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\AllClothes.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\AllClothes.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\AssistantResult.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\AssistantResult.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\BlankPage1test.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\BlankPage1test.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\AllClothes.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\AssistantResult.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\AllClothes.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\AssistantResult.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\BlankPage1test.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\BlankPage1test.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\AllClothes.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\AssistantResult.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\x86\Debug\BlankPage1test.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\BlankPage1.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\BlankPage1.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\MyAssistance.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\MyAssistance.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\notWellDressed.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\notWellDressed.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\BlankPage1.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\MyAssistance.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\notWellDressed.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\BlankPage1.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\MyAssistance.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\x86\Debug\notWellDressed.xbf

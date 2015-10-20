@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="My_Fashion_Assistant.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:My_Fashion_Assistant"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+       
+        <Button Content="Button" HorizontalAlignment="Left" Margin="187,150,0,0" VerticalAlignment="Top">
+            <Button.Resources>
+                <Flyout x:Key="gassFlyout">
+                    <Grid Height="100" Width="100">
+                          
+                          
+                           <MenuFlyoutItem Text="By rating"></MenuFlyoutItem>
+                    </Grid>
+                </Flyout>
+            </Button.Resources>
+            <Button.Flyout>
+                <StaticResource ResourceKey="gassFlyout"/>
+            </Button.Flyout>
+
+
+
+        </Button>
+
+    </Grid>
+</Page>

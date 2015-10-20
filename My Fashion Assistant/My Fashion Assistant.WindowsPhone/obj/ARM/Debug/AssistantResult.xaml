@@ -1,0 +1,240 @@
+﻿<Page
+    x:Class="My_Fashion_Assistant.AssistantResult"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:My_Fashion_Assistant"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" RequestedTheme="Dark">
+    <Page.Resources>
+        <Storyboard x:Name="Storyboard1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="upperBodyPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="upperBodyPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="lowerBodyPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="lowerBodyPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="ShoesPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="ShoesPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="CoatPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="CoatPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="dressPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="dressPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="accessoriesPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="accessoriesPic">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="textBlock">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="textBlock">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="textBlock1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="textBlock1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="textBlock2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="textBlock2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="textBlock3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="textBlock3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="textBlock4">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="textBlock4">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="textBlock5">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-409.444"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-101.111"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="2.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="textBlock5">
+                <EasingDoubleKeyFrame KeyTime="0" Value="18.888"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="30.555"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="64.444"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+
+    <Page.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFFF2F5F"/>
+            <GradientStop Color="#FFFF3A67" Offset="1"/>
+        </LinearGradientBrush>
+    </Page.Background>
+
+
+    <Page.BottomAppBar>
+        <CommandBar Background="#FFFF2F5F">
+
+            <AppBarButton x:ConnectionId='1' Label="Share"                    >
+                <AppBarButton.Icon>
+                    <BitmapIcon UriSource="Assets/share.png"/>
+                </AppBarButton.Icon>
+                <AppBarButton.BorderBrush>
+                    <ImageBrush Stretch="Fill"/>
+                </AppBarButton.BorderBrush>
+            </AppBarButton>
+
+            <AppBarButton x:ConnectionId='2' Icon="Forward" Label="Main Menu"                       />
+           
+
+
+            <!--<AppBarButton Icon="Back" Label="Back" Click="Back_Click"/>-->
+
+
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#8E3557" Offset="0.504"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <ProgressRing IsActive="True" x:Name="mProgressRing" Visibility="Visible" Margin="-2,-6,2,6"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Assistant Result" VerticalAlignment="Top" Height="68" Width="349" FontSize="48"/>
+        <Image x:Name="upperBodyPic" HorizontalAlignment="Left" Height="100" Margin="121,163,0,0" VerticalAlignment="Top" Width="142" Stretch="Fill" RenderTransformOrigin="0.5,0.5" >
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="lowerBodyPic" HorizontalAlignment="Left" Height="100" Margin="121,302,0,0" VerticalAlignment="Top" Width="142" Stretch="Fill" RenderTransformOrigin="0.5,0.5" >
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="ShoesPic" HorizontalAlignment="Left" Height="64" Margin="139,438,0,0" VerticalAlignment="Top" Width="100" Stretch="Fill" RenderTransformOrigin="0.5,0.5" >
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="CoatPic" HorizontalAlignment="Left" Height="124" Margin="5,163,0,0" VerticalAlignment="Top" Width="93"  Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="dressPic" HorizontalAlignment="Left" Height="147" Margin="290,188,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="accessoriesPic" HorizontalAlignment="Left" Height="70" Margin="290,417,0,0" VerticalAlignment="Top" Width="100" Stretch="Fill" RenderTransformOrigin="0.5,0.5" >
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="121,123,0,0" TextWrapping="Wrap" Text="Upper body" VerticalAlignment="Top" Height="32" Width="142" FontSize="22" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <CompositeTransform/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="121,265,0,0" TextWrapping="Wrap" Text="Lower body" VerticalAlignment="Top" Height="32" Width="142" FontSize="22" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <CompositeTransform/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="121,407,0,0" TextWrapping="Wrap" Text="Shoes" VerticalAlignment="Top" Height="32" Width="142" FontSize="22" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <CompositeTransform/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Margin="311,143,0,0" TextWrapping="Wrap" Text="Dress" VerticalAlignment="Top" Height="32" Width="65" FontSize="22" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <CompositeTransform/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Name="textBlock4" HorizontalAlignment="Left" Margin="277,385,0,0" TextWrapping="Wrap" Text="Accessories" VerticalAlignment="Top" Height="32" Width="113" FontSize="22" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <CompositeTransform/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Name="textBlock5" HorizontalAlignment="Left" Margin="10,123,0,0" TextWrapping="Wrap" Text="Coat" VerticalAlignment="Top" Height="32" Width="68" FontSize="22" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <CompositeTransform/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Name="result" Visibility="Collapsed" HorizontalAlignment="Left" Margin="95,78,0,0" TextWrapping="Wrap" Text="Your are well dressed" VerticalAlignment="Top" Height="32" Width="214" FontSize="22"/>
+
+    </Grid>
+</Page>
+

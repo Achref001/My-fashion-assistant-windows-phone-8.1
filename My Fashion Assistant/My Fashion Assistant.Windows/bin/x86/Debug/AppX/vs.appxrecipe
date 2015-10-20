@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ACHREF-PC</Machine>
+    <WindowsUser>Achref</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>187e0129-c9d5-46da-b095-bee34d489d2b</PackageIdentityName>
+    <IntermediateOutputPath>F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>738F3C9D682DCAC0B3A51B3D529A00F26591340CFD0F13073BB0A6720EC0E283</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>187e0129-c9d5-46da-b095-bee34d489d2b_1.0.0.0_x86__7q702hc7ns7t4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>187e0129-c9d5-46da-b095-bee34d489d2b_7q702hc7ns7t4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>187e0129-c9d5-46da-b095-bee34d489d2b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Achref Gassoumi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-15T01:32:02.539</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\x86\Debug\My Fashion Assistant.Windows.exe">
+      <PackagePath>My Fashion Assistant.Windows.exe</PackagePath>
+      <Modified>2015-05-15T01:50:00.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.8.1\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2015-04-23T10:34:10.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\accessories.png">
+      <PackagePath>Assets\accessories.png</PackagePath>
+      <Modified>2015-05-14T23:56:10.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\Assistant.png">
+      <PackagePath>Assets\Assistant.png</PackagePath>
+      <Modified>2015-05-14T23:56:10.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\brokenClouds.png">
+      <PackagePath>Assets\brokenClouds.png</PackagePath>
+      <Modified>2015-05-14T23:56:10.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\clearSky.png">
+      <PackagePath>Assets\clearSky.png</PackagePath>
+      <Modified>2015-05-14T23:56:10.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\fashionAssistantBackground.png">
+      <PackagePath>Assets\fashionAssistantBackground.png</PackagePath>
+      <Modified>2015-05-09T00:24:42.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\humidity.png">
+      <PackagePath>Assets\humidity.png</PackagePath>
+      <Modified>2015-05-14T23:56:10.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\img_not_available.png">
+      <PackagePath>Assets\img_not_available.png</PackagePath>
+      <Modified>2015-05-14T23:56:10.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\mist.png">
+      <PackagePath>Assets\mist.png</PackagePath>
+      <Modified>2015-05-14T23:56:10.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\pessure.png">
+      <PackagePath>Assets\pessure.png</PackagePath>
+      <Modified>2015-05-14T23:56:10.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\rain.png">
+      <PackagePath>Assets\rain.png</PackagePath>
+      <Modified>2015-05-14T23:56:10.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\showerRain.png">
+      <PackagePath>Assets\showerRain.png</PackagePath>
+      <Modified>2015-05-14T23:56:10.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\snow.png">
+      <PackagePath>Assets\snow.png</PackagePath>
+      <Modified>2015-05-14T23:56:10.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\Broken-cloudsDefaultBackground.jpg">
+      <PackagePath>Assets\Broken-cloudsDefaultBackground.jpg</PackagePath>
+      <Modified>2015-05-14T23:56:10.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\coat.jpg">
+      <PackagePath>Assets\coat.jpg</PackagePath>
+      <Modified>2015-05-14T23:56:10.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\dress.jpg">
+      <PackagePath>Assets\dress.jpg</PackagePath>
+      <Modified>2015-05-14T23:56:10.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\fashionAssistantBackgroundtrans.jpg">
+      <PackagePath>Assets\fashionAssistantBackgroundtrans.jpg</PackagePath>
+      <Modified>2015-05-09T00:28:34.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\lowerBody.jpg">
+      <PackagePath>Assets\lowerBody.jpg</PackagePath>
+      <Modified>2015-05-14T23:56:10.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\shoes.JPG">
+      <PackagePath>Assets\shoes.JPG</PackagePath>
+      <Modified>2015-05-14T23:56:10.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\Assets\upperBody.jpg">
+      <PackagePath>Assets\upperBody.jpg</PackagePath>
+      <Modified>2015-05-14T23:56:10.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-14T04:16:04.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\x86\Debug\All Clothes.xbf">
+      <PackagePath>All Clothes.xbf</PackagePath>
+      <Modified>2015-05-15T01:39:43.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\x86\Debug\Clothes.xbf">
+      <PackagePath>Clothes.xbf</PackagePath>
+      <Modified>2015-05-15T01:39:43.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-15T01:39:43.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\x86\Debug\My Fashion Assistant.Windows.xr.xml">
+      <PackagePath>My Fashion Assistant.Windows.xr.xml</PackagePath>
+      <Modified>2015-05-15T01:34:08.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-15T01:32:01.696</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="F:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>F:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="F:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>F:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="F:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>F:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

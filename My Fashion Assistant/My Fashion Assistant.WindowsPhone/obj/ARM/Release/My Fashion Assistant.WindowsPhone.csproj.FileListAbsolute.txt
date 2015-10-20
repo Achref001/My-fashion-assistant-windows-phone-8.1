@@ -1,0 +1,84 @@
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\Clothes.xaml.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\App.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\accessories.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\AllClothes.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\AssistantResult.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\BlankPage1test.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\Clothes.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\Coat.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\Dresses.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\LowerBody.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\MainPage.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\Shoess.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\UpperBody.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\My Fashion Assistant.WindowsPhone.xr.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\My Fashion Assistant.WindowsPhone.exe
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\My Fashion Assistant.WindowsPhone.pdb
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\resources.pri
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\AppxManifest.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\bin\ARM\Release\My Fashion Assistant.WindowsPhone.build.appxrecipe
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\App.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\App.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\accessories.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\accessories.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\AllClothes.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\AllClothes.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\AssistantResult.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\AssistantResult.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\BlankPage1test.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\BlankPage1test.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Clothes.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Clothes.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Coat.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Coat.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Dresses.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Dresses.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\LowerBody.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\LowerBody.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\MainPage.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\MainPage.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Shoess.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Shoess.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\UpperBody.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\UpperBody.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\XamlTypeInfo.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\App.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\accessories.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\AllClothes.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\AssistantResult.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Clothes.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Coat.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Dresses.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\LowerBody.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\MainPage.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Shoess.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\UpperBody.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\App.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\accessories.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\AllClothes.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\AssistantResult.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Clothes.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Coat.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Dresses.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\LowerBody.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\MainPage.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\Shoess.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\UpperBody.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\XamlSaveStateFile.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\BlankPage1test.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\BlankPage1test.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\My Fashion Assistant.WindowsPhone.exe
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\My Fashion Assistant.WindowsPhone.pdb
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\My Fashion Assistant.WindowsPhone.csproj.GenerateResource.Cache
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\priconfig.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\priconfig.xml.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\layout.resfiles
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\layout.resfiles.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\resources.resfiles
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\resources.resfiles.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\pri.resfiles
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\pri.resfiles.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\qualifiers.txt
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\qualifiers.txt.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.WindowsPhone\obj\ARM\Release\ProjectArchitectures.txt

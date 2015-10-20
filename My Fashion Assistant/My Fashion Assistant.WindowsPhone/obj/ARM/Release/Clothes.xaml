@@ -1,0 +1,76 @@
+﻿<Page
+    x:Class="My_Fashion_Assistant.Assistant"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:My_Fashion_Assistant"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    NavigationCacheMode="Enabled">
+
+    <Page.BottomAppBar>
+        <CommandBar Height="183" IsOpen="True">
+            <AppBarButton x:ConnectionId='1' Icon="BrowsePhotos" Label="Choose picture"                     >
+            </AppBarButton>
+
+
+            <AppBarButton x:ConnectionId='2' Icon="Save" Label="save"                   />
+            <AppBarButton x:ConnectionId='3' Icon="List" Label="all clothes"                         />
+
+            <!--<AppBarButton Icon="Back" Label="Back" Click="Back_Click"/>-->
+
+
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid>
+        <!--<AppBarButton Icon="Back" Label="Back" Click="Back_Click"/>-->
+
+        <!--   <Image x:Name="imagePreivew" Source="{Binding}" Stretch="Fill" Width="320" Height="240" />
+        <TextBlock x:Name="OutputTextBlock"  TextWrapping="Wrap"/>
+       -->
+        <!--<StackPanel >
+            <StackPanel.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/fashionBackground.jpg"/>
+            </StackPanel.Background>
+        </StackPanel>-->
+        <StackPanel Orientation="Vertical">
+            <!--<TextBlock x:Name="OutputTextBlock"  TextWrapping="Wrap" Text="Recently Picked" FontWeight="Bold"/>-->
+            <!--<TextBlock x:Name="OutputTextBlock"  TextWrapping="Wrap" Text="Recently Picked" FontWeight="Bold"/>-->
+            <StackPanel  >
+                <Image x:ConnectionId='5' x:Name="imagePreivew"  Height="318" Width="400" Source="Assets/noImg.jpg" Stretch="Fill"                              />
+            </StackPanel>
+            <StackPanel  >
+                <TextBlock TextWrapping="Wrap" Text="Clothes name :" FontSize="20"/>
+                <TextBox x:ConnectionId='4' x:Name="txtClothesName" Margin="0" TextWrapping="Wrap"  Text="My clothes" VerticalAlignment="Stretch"                                               />
+                
+                <TextBlock TextWrapping="Wrap" Text="Cathegory :" FontSize="20"/>
+                <ComboBox x:Name="cmbCathegory" SelectedIndex="0">
+                    <ComboBoxItem Content="Upper Body"/>
+                    <ComboBoxItem Content="Lower Body"/>
+                    <ComboBoxItem Content="Coat"/>
+                    <ComboBoxItem Content="Shoes"/>
+                    <ComboBoxItem Content="Accessories"/> 
+                    <ComboBoxItem Content="Dress"/>
+                </ComboBox>
+                
+                <TextBlock TextWrapping="Wrap" Text="Season :" FontSize="20"/>
+                <ComboBox x:Name="cmbSeason" SelectedIndex="0" >
+                    <ComboBoxItem Content="spring  "/>
+                    <ComboBoxItem Content="summer  "/>
+                    <ComboBoxItem Content="autumn  "/>
+                    <ComboBoxItem Content="winter  "/>
+                    <ComboBoxItem Content="     "/>
+                    <ComboBoxItem Content="     "/>
+                    
+                    
+
+                </ComboBox>
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page> 
+

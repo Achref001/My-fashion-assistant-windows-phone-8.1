@@ -1,0 +1,67 @@
+﻿<Page
+    x:Class="My_Fashion_Assistant.notWellDressed"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:My_Fashion_Assistant"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" RequestedTheme="Dark">
+	<Page.Resources>
+		<Storyboard x:Name="Storyboard1">
+			<DoubleAnimation Duration="0:0:1" To="271.726" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="result" d:IsOptimized="True"/>
+		</Storyboard>
+	</Page.Resources>
+   
+    <Page.Background>
+    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+        <GradientStop Color="#FFFF2F5F"/>
+        <GradientStop Color="#FFFF3A67" Offset="1"/>
+    </LinearGradientBrush>
+    </Page.Background>
+
+
+    <Page.BottomAppBar>
+        <CommandBar Background="#FFFF2F5F">
+
+
+
+            <AppBarButton Icon="Forward" Label="Main Menu" Click="MainMenu_Click"/>
+
+            <!--<AppBarButton Icon="Back" Label="Back" Click="Back_Click"/>-->
+
+
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#8E3557" Offset="0.504"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <ProgressRing IsActive="True" x:Name="mProgressRing" Visibility="Visible" Margin="-2,-6,2,6"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Assistant Result" VerticalAlignment="Top" Height="68" Width="349" FontSize="48"/>
+        <Image x:Name="upperBodyPic" HorizontalAlignment="Left" Height="100" Margin="121,163,0,0" VerticalAlignment="Top" Width="142" Stretch="Fill" />
+        <Image x:Name="lowerBodyPic" HorizontalAlignment="Left" Height="100" Margin="121,302,0,0" VerticalAlignment="Top" Width="142" Stretch="Fill" />
+        <Image x:Name="ShoesPic" HorizontalAlignment="Left" Height="64" Margin="139,438,0,0" VerticalAlignment="Top" Width="100" Stretch="Fill"/>
+        <Image x:Name="CoatPic" HorizontalAlignment="Left" Height="124" Margin="5,163,0,0" VerticalAlignment="Top" Width="93"  Stretch="Fill"/>
+        <Image x:Name="dressPic" HorizontalAlignment="Left" Height="147" Margin="290,188,0,0" VerticalAlignment="Top" Width="100"  Stretch="Fill"/>
+        <Image x:Name="accessoriesPic" HorizontalAlignment="Left" Height="49" Margin="290,417,0,0" VerticalAlignment="Top" Width="100" Stretch="Fill" />
+        <TextBlock HorizontalAlignment="Left" Margin="121,123,0,0" TextWrapping="Wrap" Text="Upper body" VerticalAlignment="Top" Height="32" Width="142" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="121,265,0,0" TextWrapping="Wrap" Text="Lower body" VerticalAlignment="Top" Height="32" Width="142" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="121,407,0,0" TextWrapping="Wrap" Text="Shoes" VerticalAlignment="Top" Height="32" Width="142" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="311,143,0,0" TextWrapping="Wrap" Text="Dress" VerticalAlignment="Top" Height="32" Width="65" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="277,385,0,0" TextWrapping="Wrap" Text="Accessories" VerticalAlignment="Top" Height="32" Width="113" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,123,0,0" TextWrapping="Wrap" Text="Coat" VerticalAlignment="Top" Height="32" Width="68" FontSize="22"/>
+        <TextBlock x:Name="result"  HorizontalAlignment="Left" Margin="-187,78,0,0" TextWrapping="Wrap" Text="Your are not well dressed" VerticalAlignment="Top" Height="32" Width="214" FontSize="22" RenderTransformOrigin="0.5,0.5">
+        	<TextBlock.RenderTransform>
+        		<CompositeTransform/>
+        	</TextBlock.RenderTransform>
+        </TextBlock>
+
+    </Grid>
+</Page>

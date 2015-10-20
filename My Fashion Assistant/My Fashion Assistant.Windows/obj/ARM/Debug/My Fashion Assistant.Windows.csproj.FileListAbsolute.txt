@@ -1,0 +1,33 @@
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\ARM\Debug\App.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\ARM\Debug\MainPage.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\ARM\Debug\My Fashion Assistant.Windows.xr.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\ARM\Debug\My Fashion Assistant.Windows.exe
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\ARM\Debug\My Fashion Assistant.Windows.pdb
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\ARM\Debug\resources.pri
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\ARM\Debug\AppxManifest.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\bin\ARM\Debug\My Fashion Assistant.Windows.build.appxrecipe
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\App.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\App.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\MainPage.g.i.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\MainPage.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\XamlTypeInfo.g.cs
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\App.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\MainPage.xaml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\App.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\MainPage.xbf
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\XamlSaveStateFile.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\My Fashion Assistant.Windows.exe
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\My Fashion Assistant.Windows.pdb
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\My Fashion Assistant.Windows.csproj.GenerateResource.Cache
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\priconfig.xml
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\priconfig.xml.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\layout.resfiles
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\layout.resfiles.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\resources.resfiles
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\resources.resfiles.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\pri.resfiles
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\pri.resfiles.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\qualifiers.txt
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\qualifiers.txt.intermediate
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Users\Achref\Desktop\My fashion assistant version 1\My Fashion Assistant\My Fashion Assistant\My Fashion Assistant.Windows\obj\ARM\Debug\ProjectArchitectures.txt
